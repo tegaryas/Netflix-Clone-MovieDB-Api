@@ -2,7 +2,7 @@
 
 A Project for Learning BLoC + Cubit State Management and tranining my UI Implementation
 
-- MovieDB APi = https://developers.themoviedb.org/3
+- MovieDB API = https://developers.themoviedb.org/3
 
 ## Screenshot
 <p float="left">
